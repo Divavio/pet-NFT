@@ -745,8 +745,8 @@ body {
     list-style: none;
 }
 
-.footer-top__link {
-    vertical-align: super;
+.footer-top__item-box_link+.footer-top__item-box_link {
+    margin-left: 10px;
 }
 
 .footer__form-text {
